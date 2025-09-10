@@ -44,7 +44,7 @@ bioskop/
 1. Clone the repository:
 
 ```
-git clone https://github.com/TvojeKorisnickoIme/cinema-python.git
+git clone https://github.com/nadjabozic/cinema-python.git
 ```
 
 2. Navigate to project folder:
